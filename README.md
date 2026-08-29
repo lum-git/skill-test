@@ -9,7 +9,9 @@ skill-test/
 ├── readme.md              # 项目说明
 └── skills/
     └── hello/             # 示例技能
-        └── SKILL.md       # 技能定义文件
+        ├── SKILL.md       # 技能定义文件
+        └── scripts/
+            └── hello.py   # 问候脚本
 ```
 
 ## 技能规范
